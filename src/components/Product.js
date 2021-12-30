@@ -13,6 +13,9 @@ function Product(props) {
                 <p className='font-bold text-xl'>
                     Q. { props.price } 
                 </p>
+                <button>
+                    Test
+                </button>
             </div>
         </div>
     );
